@@ -1,0 +1,142 @@
+{
+  "uid" : "eb0948fb05b55bdf",
+  "name" : "test_user_update_role",
+  "fullName" : "test_case.hhhe.test_user_fenpei#test_user_update_role",
+  "historyId" : "c09ddb4328eedfb754ad1165def7d8da",
+  "time" : {
+    "start" : 1564131712679,
+    "stop" : 1564131713784,
+    "duration" : 1105
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "断言响应状态码，实际结果是：200，预期结果为：200",
+      "time" : {
+        "start" : 1564131713783,
+        "stop" : 1564131713783,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "断言用户角色，实际结果是：3，预期结果为：3",
+      "time" : {
+        "start" : 1564131713784,
+        "stop" : 1564131713784,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "16cd9209dc277cc",
+      "name" : "请求",
+      "source" : "16cd9209dc277cc.txt",
+      "type" : "text/plain",
+      "size" : 292
+    }, {
+      "uid" : "57b3866ce0871ade",
+      "name" : "响应",
+      "source" : "57b3866ce0871ade.txt",
+      "type" : "text/plain",
+      "size" : 436
+    }, {
+      "uid" : "82e329b7cd643604",
+      "name" : "log",
+      "source" : "82e329b7cd643604.txt",
+      "type" : "text/plain",
+      "size" : 1776
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "给用户分配角色"
+  }, {
+    "name" : "feature",
+    "value" : "后台用户管理流程"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.hhhe"
+  }, {
+    "name" : "suite",
+    "value" : "test_user_fenpei"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190318XEI"
+  }, {
+    "name" : "thread",
+    "value" : "3280-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.hhhe.test_user_fenpei"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "86646c096a33b119",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564113149333,
+        "stop" : 1564113151105,
+        "duration" : 1772
+      }
+    }, {
+      "uid" : "53aa1675cedce5f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564110738033,
+        "stop" : 1564110739247,
+        "duration" : 1214
+      }
+    }, {
+      "uid" : "d61222dc5405207",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564109259184,
+        "stop" : 1564109259834,
+        "duration" : 650
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb0948fb05b55bdf.json",
+  "parameterValues" : [ ]
+}

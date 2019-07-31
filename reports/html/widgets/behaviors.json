@@ -1,0 +1,15 @@
+{
+  "total" : 7,
+  "items" : [ {
+    "uid" : "70ef9c68d60967fd5949ef5ef163480b",
+    "name" : "后台用户管理流程",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}

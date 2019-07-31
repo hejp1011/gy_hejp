@@ -1,0 +1,111 @@
+[ {
+  "uid" : "eb0948fb05b55bdf",
+  "name" : "test_user_update_role",
+  "time" : {
+    "start" : 1564131712679,
+    "stop" : 1564131713784,
+    "duration" : 1105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b0472b69b1597ab",
+  "name" : "test_change_pwd_var[全字段正常流_3]",
+  "time" : {
+    "start" : 1564132586049,
+    "stop" : 1564132587379,
+    "duration" : 1330
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6673d2315269a21d",
+  "name" : "test_change_pwd_var[全字段正常流_2]",
+  "time" : {
+    "start" : 1564197212956,
+    "stop" : 1564197213846,
+    "duration" : 890
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dffe9216e1fa5fb4",
+  "name" : "test_change_pwd_var",
+  "time" : {
+    "start" : 1564131712020,
+    "stop" : 1564131712674,
+    "duration" : 654
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e280f6c33947b399",
+  "name" : "test_change_login_var",
+  "time" : {
+    "start" : 1564131715366,
+    "stop" : 1564131715910,
+    "duration" : 544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c80c062ef6e42bd8",
+  "name" : "test_user_info",
+  "time" : {
+    "start" : 1564131715914,
+    "stop" : 1564131718836,
+    "duration" : 2922
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92f8a99d362dc664",
+  "name" : "test_change_pwd_var[全字段正常流_1]",
+  "time" : {
+    "start" : 1564197211777,
+    "stop" : 1564197212947,
+    "duration" : 1170
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62790ba0782ac214",
+  "name" : "test_change_pwd_var[全字段正常流_1]",
+  "time" : {
+    "start" : 1564132583941,
+    "stop" : 1564132584501,
+    "duration" : 560
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba2757d01a753eda",
+  "name" : "test_change_pwd",
+  "time" : {
+    "start" : 1564131713788,
+    "stop" : 1564131715363,
+    "duration" : 1575
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2536a14dbf7d569",
+  "name" : "test_change_pwd_var[全字段正常流_2]",
+  "time" : {
+    "start" : 1564132584507,
+    "stop" : 1564132586037,
+    "duration" : 1530
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e7e76c6d54269e6",
+  "name" : "test_change_pwd_var[全字段正常流_3]",
+  "time" : {
+    "start" : 1564197213855,
+    "stop" : 1564197214444,
+    "duration" : 589
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

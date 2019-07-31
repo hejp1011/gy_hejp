@@ -1,0 +1,146 @@
+{
+  "uid" : "516ece4ac8f18dd3",
+  "name" : "test_change_pwd_var[全字段正常流_2]",
+  "fullName" : "test_case.spfl.test_tjspfl#test_change_pwd_var[全字段正常流_2]",
+  "historyId" : "baed3b72c89548f83f7f9fbd499506b9",
+  "time" : {
+    "start" : 1564194466742,
+    "stop" : 1564194467223,
+    "duration" : 481
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "token",
+    "time" : {
+      "start" : 1564194463262,
+      "stop" : 1564194466259,
+      "duration" : 2997
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "71724c1d0cf6489c",
+      "name" : "请求",
+      "source" : "71724c1d0cf6489c.txt",
+      "type" : "text/plain",
+      "size" : 274
+    }, {
+      "uid" : "da5e264291be87e2",
+      "name" : "响应",
+      "source" : "da5e264291be87e2.txt",
+      "type" : "text/plain",
+      "size" : 652
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "断言响应状态码，实际结果：200 ,预期结果为：200",
+      "time" : {
+        "start" : 1564194467223,
+        "stop" : 1564194467223,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "断言code，实际结果：200 ,预期结果为：200",
+      "time" : {
+        "start" : 1564194467223,
+        "stop" : 1564194467223,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "4e80d934b5896547",
+      "name" : "请求",
+      "source" : "4e80d934b5896547.txt",
+      "type" : "text/plain",
+      "size" : 903
+    }, {
+      "uid" : "db8869061cebc663",
+      "name" : "响应",
+      "source" : "db8869061cebc663.txt",
+      "type" : "text/plain",
+      "size" : 436
+    }, {
+      "uid" : "5d5f3859c93dd63b",
+      "name" : "log",
+      "source" : "5d5f3859c93dd63b.txt",
+      "type" : "text/plain",
+      "size" : 2465
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.spfl"
+  }, {
+    "name" : "suite",
+    "value" : "test_tjspfl"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190318XEI"
+  }, {
+    "name" : "thread",
+    "value" : "3372-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.spfl.test_tjspfl"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "code",
+    "value" : "200.0"
+  }, {
+    "name" : "datas",
+    "value" : "'{\n  \"description\": \"fghfhfhfghfhfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg\",\n  \"icon\": \"http://img5.imgtn.bdimg.com/it/u=3300305952,1328708913&fm=26&gp=0.jpg\",\n  \"keywords\": \"s\",\n  \"name\": \"车\",\n  \"navStatus\": 0,\n  \"parentId\": 0,\n  \"productAttributeIdList\": [\n    1\n  ],\n  \"productUnit\": \"件\",\n  \"showStatus\": 0,\n  \"sort\": 0\n}'"
+  }, {
+    "name" : "uri",
+    "value" : "'/productCategory/create'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "516ece4ac8f18dd3.json",
+  "parameterValues" : [ "200.0", "'{\n  \"description\": \"fghfhfhfghfhfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg\",\n  \"icon\": \"http://img5.imgtn.bdimg.com/it/u=3300305952,1328708913&fm=26&gp=0.jpg\",\n  \"keywords\": \"s\",\n  \"name\": \"车\",\n  \"navStatus\": 0,\n  \"parentId\": 0,\n  \"productAttributeIdList\": [\n    1\n  ],\n  \"productUnit\": \"件\",\n  \"showStatus\": 0,\n  \"sort\": 0\n}'", "'/productCategory/create'" ]
+}

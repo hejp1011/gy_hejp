@@ -1,0 +1,15 @@
+---------------响应----------------
+200
+Transfer-Encoding: chunked
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 26 Jul 2019 03:13:37 GMT
+Expires: 0
+Keep-Alive: timeout=58
+Pragma: no-cache
+X-Application-Context: application:prod
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+
+{"code":200,"message":"操作成功","data":{"tokenHead":"Bearer ","token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwUm5HYUgiLCJjcmVhdGVkIjoxNTY0MTEwODE3NDQ5LCJleHAiOjE1NjQ3MTU2MTd9.rNdb2PIIDEg1czhktxxXeCGMDuTn2EEAltqYMsmbkhQgoZ_1B1CIMEbQtb4MUaR9wDSPCvi8-BeXs8aaEzfriA"}}

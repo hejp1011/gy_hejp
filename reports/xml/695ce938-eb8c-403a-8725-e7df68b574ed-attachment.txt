@@ -1,0 +1,26 @@
+INFO     tools.log_tool:log_tool.py:33 ----请求用时: 662.061 秒数
+INFO     tools.log_tool:log_tool.py:33 ---------------请求-----------------
+                                       http://qa.yansl.com:8080/admin/register
+                                       User-Agent: python-requests/2.22.0
+                                       Accept-Encoding: gzip, deflate
+                                       Accept: */*
+                                       Connection: keep-alive
+                                       Content-Length: 130
+                                       Content-Type: application/json
+                                       
+                                       b'{"email": "3309843696@qq.com", "icon": "string", "nickName": "string", "note": "string", "password": "1234", "username": "RWeZlS"}'
+INFO     tools.log_tool:log_tool.py:33 ---------------响应----------------
+                                       200
+                                       Transfer-Encoding: chunked
+                                       Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+                                       Content-Type: application/json;charset=UTF-8
+                                       Date: Fri, 26 Jul 2019 02:48:54 GMT
+                                       Expires: 0
+                                       Keep-Alive: timeout=58
+                                       Pragma: no-cache
+                                       X-Application-Context: application:prod
+                                       X-Content-Type-Options: nosniff
+                                       X-Frame-Options: DENY
+                                       X-Xss-Protection: 1; mode=block
+                                       
+                                       {"code":200,"message":"操作成功","data":{"id":678,"username":"RWeZlS","password":"81dc9bdb52d04dc20036dbd8313ed055","icon":"string","email":"3309843696@qq.com","nickName":"string","note":"string","createTime":1564109334319,"loginTime":null,"status":1}}

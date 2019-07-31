@@ -1,0 +1,80 @@
+{
+  "uid" : "e1fd2802106f6b19",
+  "name" : "test_change_pwd_var",
+  "fullName" : "test_case.hhhe.test_user_fenpei#test_change_pwd_var",
+  "historyId" : "5355012260cad3919a2b1194cd525aae",
+  "time" : {
+    "start" : 1564109258464,
+    "stop" : 1564109259178,
+    "duration" : 714
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "189a7fba47218ce9",
+      "name" : "请求",
+      "source" : "189a7fba47218ce9.txt",
+      "type" : "text/plain",
+      "size" : 365
+    }, {
+      "uid" : "658bed62f7be79a",
+      "name" : "响应",
+      "source" : "658bed62f7be79a.txt",
+      "type" : "text/plain",
+      "size" : 646
+    }, {
+      "uid" : "cba5937d298e7d84",
+      "name" : "log",
+      "source" : "cba5937d298e7d84.txt",
+      "type" : "text/plain",
+      "size" : 2059
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.hhhe"
+  }, {
+    "name" : "suite",
+    "value" : "test_user_fenpei"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190318XEI"
+  }, {
+    "name" : "thread",
+    "value" : "6740-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.hhhe.test_user_fenpei"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1fd2802106f6b19.json",
+  "parameterValues" : [ ]
+}

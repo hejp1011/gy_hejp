@@ -1,0 +1,116 @@
+{
+  "uid" : "2e98bc33927a250b",
+  "name" : "test_change_pwd_var",
+  "fullName" : "test_case.hhhe.test_user_fenpei#test_change_pwd_var",
+  "historyId" : "5355012260cad3919a2b1194cd525aae",
+  "time" : {
+    "start" : 1564113147663,
+    "stop" : 1564113149328,
+    "duration" : 1665
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "断言响应状态码，实际结果是：200，预期结果为：200",
+      "time" : {
+        "start" : 1564113149328,
+        "stop" : 1564113149328,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "断言用户名，实际结果是：cHRfBQ，预期结果为：cHRfBQ",
+      "time" : {
+        "start" : 1564113149328,
+        "stop" : 1564113149328,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "6cad2fbf476f8d39",
+      "name" : "请求",
+      "source" : "6cad2fbf476f8d39.txt",
+      "type" : "text/plain",
+      "size" : 365
+    }, {
+      "uid" : "b0b8d98f80529af0",
+      "name" : "响应",
+      "source" : "b0b8d98f80529af0.txt",
+      "type" : "text/plain",
+      "size" : 646
+    }, {
+      "uid" : "c75f896af410a14d",
+      "name" : "log",
+      "source" : "c75f896af410a14d.txt",
+      "type" : "text/plain",
+      "size" : 2059
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "注册-新用户"
+  }, {
+    "name" : "feature",
+    "value" : "后台用户管理流程"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.hhhe"
+  }, {
+    "name" : "suite",
+    "value" : "test_user_fenpei"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190318XEI"
+  }, {
+    "name" : "thread",
+    "value" : "2964-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.hhhe.test_user_fenpei"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e98bc33927a250b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,86 @@
+{
+  "uid" : "86646c096a33b119",
+  "name" : "test_user_update_role",
+  "fullName" : "test_case.hhhe.test_user_fenpei#test_user_update_role",
+  "historyId" : "c09ddb4328eedfb754ad1165def7d8da",
+  "time" : {
+    "start" : 1564113149333,
+    "stop" : 1564113151105,
+    "duration" : 1772
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6641d7be1da748d5",
+      "name" : "请求",
+      "source" : "6641d7be1da748d5.txt",
+      "type" : "text/plain",
+      "size" : 292
+    }, {
+      "uid" : "df3f9d3c9b3ed16e",
+      "name" : "响应",
+      "source" : "df3f9d3c9b3ed16e.txt",
+      "type" : "text/plain",
+      "size" : 436
+    }, {
+      "uid" : "5e0539b68e891cda",
+      "name" : "log",
+      "source" : "5e0539b68e891cda.txt",
+      "type" : "text/plain",
+      "size" : 1776
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "后台用户管理流程"
+  }, {
+    "name" : "story",
+    "value" : "给用户分配角色"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.hhhe"
+  }, {
+    "name" : "suite",
+    "value" : "test_user_fenpei"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190318XEI"
+  }, {
+    "name" : "thread",
+    "value" : "2964-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.hhhe.test_user_fenpei"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86646c096a33b119.json",
+  "parameterValues" : [ ]
+}

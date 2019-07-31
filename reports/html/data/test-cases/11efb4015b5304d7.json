@@ -1,0 +1,86 @@
+{
+  "uid" : "11efb4015b5304d7",
+  "name" : "test_change_pwd",
+  "fullName" : "test_case.hhhe.test_user_fenpei#test_change_pwd",
+  "historyId" : "42d184fd9a4874f1d26f1944f04cb04c",
+  "time" : {
+    "start" : 1564113151110,
+    "stop" : 1564113153175,
+    "duration" : 2065
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "71d3b1f92d3a658d",
+      "name" : "请求",
+      "source" : "71d3b1f92d3a658d.txt",
+      "type" : "text/plain",
+      "size" : 185
+    }, {
+      "uid" : "18eb3a3fcae089b3",
+      "name" : "响应",
+      "source" : "18eb3a3fcae089b3.txt",
+      "type" : "text/plain",
+      "size" : 844
+    }, {
+      "uid" : "c402f336654fcb60",
+      "name" : "log",
+      "source" : "c402f336654fcb60.txt",
+      "type" : "text/plain",
+      "size" : 1998
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "后台用户管理流程"
+  }, {
+    "name" : "story",
+    "value" : "查询用户角色信息"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.hhhe"
+  }, {
+    "name" : "suite",
+    "value" : "test_user_fenpei"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190318XEI"
+  }, {
+    "name" : "thread",
+    "value" : "2964-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.hhhe.test_user_fenpei"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11efb4015b5304d7.json",
+  "parameterValues" : [ ]
+}
